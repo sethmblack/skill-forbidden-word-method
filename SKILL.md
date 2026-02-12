@@ -1,12 +1,10 @@
 ---
 name: forbidden-word-method
-description: Start where speech is prohibited. The things that cannot be said are
-  always the things that need saying. Trace prohibitions to their source to discover
-  what power is being protected, then say the u...
+description: Start where speech is prohibited. The things that cannot be said are always the things that need saying. Trace prohibitions to their source to discover what power is being protected, then say the u...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - forbidden-word-method
 - storytelling
@@ -178,4 +176,3 @@ Words don't become forbidden by accident. Prohibition requires effort, enforceme
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
