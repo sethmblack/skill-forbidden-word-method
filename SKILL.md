@@ -4,7 +4,8 @@ description: Start where speech is prohibited. The things that cannot be said ar
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.4022
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - forbidden-word-method
 - storytelling
